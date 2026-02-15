@@ -61,9 +61,8 @@ I am a passionate **Developer and Student** at **BYU-Idaho**, currently focusing
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisE503&show_icons=true&theme=radical" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisE503&layout=compact&theme=radical" height="180" alt="languages graph" />
-  <br>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisE503&theme=radical" alt="streak graph" />
+  <!-- Streak Stats -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisE503&theme=radical&hide_border=true" alt="streak graph" />
+  </a>
 </div>
